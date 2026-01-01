@@ -47,7 +47,7 @@ Broad overview to be derived from course schedule
 Project team member's info and roles. Please include contact information. 
 
 ## 9.0 Reflection on the use of AI
-In this section, reflect on the differences between AI-generated content and the content you generate on your own. **Please write your RFPs yourselves and then use AI afterwards for a comparison.** Here are the questions we would like you to answer in this section: 
+In this section, reflect on how the use of AI impacted your submission of this deliverable. We encourage you to reflect deeply on these prompts as they contribute towards a significant portion on how your work is evaluated.  
 
 - List all the ways that your team used generative AI in this deliverable. Please be specific. (E.g. to identify key stakeholders). 
 
