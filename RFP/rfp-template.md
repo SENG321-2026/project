@@ -38,7 +38,7 @@ Consider end users both inside the client organization and outside.
 List up to three
 
 ## 6.0 Known constraints to development
-List up to three
+List up to three, along with a brief summary of how these constraints will impact your project in terms of design, or development, etc. 
 
 ## 7.0 Project Schedule
 Broad overview to be derived from course schedule
