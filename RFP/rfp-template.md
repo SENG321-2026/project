@@ -67,7 +67,9 @@ Remember that you must submit your chat logs, thus, we recommend collaborating a
 
 - In your observations, what made prompts  effective and what made prompts ineffective? Was it the types of prompt (question-based, instruction-based, etc.)  How did you decide that a prompt was effective, or not? Please give examples of your prompts for both good and bad prompts, and your perceived good and bad responses from the AI model. 
 
-- If you had to repeatedly prompt the AI model, why did you keep updating your prompt? What changes were you making to your prompts? How did you know when you were satisfied with the output? Give examples of conversations requiring repeated or changing prompts. 
+- If you had to repeatedly prompt the AI model, why did you keep updating your prompt? What changes were you making to your prompts? How did you know when you were satisfied with the output? Give examples of conversations requiring repeated or changing prompts.
+
+- Was your GenAI model able to criticize its own output? Did you agree or disagree with its self-evaluation? 
 
 - Did you perceive that the AI model gained and maintained contextual understanding during the conversation? E.g. did you keep having to remind the model of something introduced early on? What context did it remember and what context did it forget?
 
