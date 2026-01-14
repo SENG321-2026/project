@@ -48,7 +48,7 @@ Project team member's info and roles. Please include contact information.
 
 ## 9.0 Reflection on the use of AI
 
-This section must be submitted a separate document. 
+This section must be submitted as a separate document from the rest of the RFP. 
 
 This is the only portion of the deliverable that cannot be written with AI. 
 
