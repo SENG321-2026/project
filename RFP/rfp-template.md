@@ -47,6 +47,9 @@ Broad overview to be derived from course schedule
 Project team member's info and roles. Please include contact information. 
 
 ## 9.0 Reflection on the use of AI
+
+This section must be submitted a separate document. 
+
 This is the only portion of the deliverable that cannot be written with AI. 
 
 In this section, reflect on how the use of AI impacted your submission of this deliverable. We have included questions here for you to answer as part of your reflection, but we encourage you to go above and beyond if the questions do not address the experience you have had. We urge you to reflect deeply on the use of AI as they contribute towards a significant portion on how your work is evaluated, and this section will largely inform how you work with requirements once you are out in the industry! 
