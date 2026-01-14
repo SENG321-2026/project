@@ -46,7 +46,12 @@ Broad overview to be derived from course schedule
 ## 8.0 Project team
 Project team member's info and roles. Please include contact information. 
 
-## 9.0 Reflection on the use of AI
+
+## 9.0 Glossary of terms
+Project jargon, or jargon from client organization should be included here so that this document is readable 
+by those external to the project.
+
+## 10.0 Reflection on the use of AI
 
 This section must be submitted as a separate document from the rest of the RFP. 
 
@@ -78,6 +83,3 @@ Remember that you must submit your chat logs, thus, we recommend collaborating a
 
 
 
-## 10.0 Glossary of terms
-Project jargon, or jargon from client organization should be included here so that this document is readable 
-by those external to the project.
