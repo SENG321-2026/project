@@ -40,7 +40,7 @@ You may use this requirements document template to get your requirements documen
       Describe the major features the product contains or the significant functions that it performs or lets the user perform. Details will be provided in Section 5, so only a high level description is needed here. Organize the functions to make them understandable to any reader of the RD. Think about how users will use the features to ensure the list is complete. Also ensure that it does not include unnecessary features that sound interesting, but does not provide customer value.     
 
    3.2. **Project Scope**
-   Provide a description of the software being specified and its purpose, including relevant benefits, objectives, and goals. Relate the software to corporate goals or business strategies. Address any goals that your software will not satisfy (i.e. what is outsie the scope?) 
+   Provide a description of the software being specified and its purpose, including relevant benefits, objectives, and goals. Relate the software to corporate goals or business strategies. 
 
    3.3. **Limitations and Exclusions**
    List any product capabilities or characteristics that a stakeholder might expect but that are not planned for inclusion in the product or in a specific release. List items that were cut from scope, so the scope decision is not forgotten.
