@@ -77,7 +77,7 @@ You may use this requirements document template to get your requirements documen
 
 6. **System Features** (Due Iteration 2 and beyond)
 
-    This template illustrates organizing the functional requirements for the product by system features, the major services provided by the product. You may prefer to organize this section by use case, mode of operation, user class, object class, functional hierarchy, or combinations of these, whatever makes the most logical sense for your product.
+    This template illustrates organizing the functional requirements for the product by system features, the major services provided by the product. You may prefer to organize this section by use case, mode of operation, user class, object class, functional hierarchy, or combinations of these, whatever makes the most logical sense for your product. I have provided a recommended structure in class that I find helpful for clarity; but you need not follow this exactly if it does not work for your group or project. 
    
    5.1. **System Feature 1**
 
@@ -89,13 +89,11 @@ You may use this requirements document template to get your requirements documen
   
 7. **Functional Requirements**
 
-   Where applicable - Itemize the detailed functional requirements associated with this feature. These are the software capabilities that must be present in order for the user to carry out the services provided by the feature, or to execute related use case(s). Include how the product should respond to anticipated error conditions or invalid inputs. Requirements should be concise, complete, unambiguous, verifiable, and necessary. Use “TBD” as a placeholder to indicate when necessary information is not yet available.
+   Itemize the detailed functional requirements associated with this feature. These are the software capabilities that must be present in order for the user to carry out the services provided by the feature, or to execute related use case(s). Include how the product should respond to anticipated error conditions or invalid inputs. Requirements should be concise, complete, unambiguous, verifiable, and necessary. Use “TBD” as a placeholder to indicate when necessary information is not yet available.
       Each requirement should be uniquely identified with a sequence number or a meaningful tag of some kind. These could be requirements that the clients provided directly or were defined by the designer group as a result of rendering the feature.
-      Each requirement should also include information a(1) bout Backward Traceability (the rationale for the requirements and the source – RFP and which section in it, client meeting and which notes from that meeting, etc.. and (2) Forward Traceability (how the requirement can be verified by the users.
+      Each requirement should also include information a(1) bout Backward Traceability (the rationale for the requirements and the source – RFP and which section in it, client meeting and which notes from that meeting, etc.. and (2) Forward Traceability (how the requirement can be verified by the users (acceptance tests)). 
 
-   REQ-1:
-
-   REQ-2:
+ 
 
 8. **Use cases associated with the feature or functional requirement**
 
@@ -119,7 +117,7 @@ You may use this requirements document template to get your requirements documen
 | Other Information: | RSM-2, RSM-3, RSM-7 |  | RSM-2, RSM-3, RSM-7 |
 | Assumptions: | Recipe already exists in the system. | Recipe exists, and the system can handle large recipe databases. | Recipe already exists in the system. |
 
-8. User stories (per system feature):
+8. User stories (per system feature). Please also include acceptance criteria for each of your user stories. 
 
 - As a donor, I want to receive a personalized thank-you email so that I feel appreciated.
 - As an organization, I want to track donor engagement so that I can improve retention.
