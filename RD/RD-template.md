@@ -131,20 +131,20 @@ You may use this requirements document template to get your requirements documen
 9. **Data Requirements**  
       
    9.1. Logical data model
-      E.g., entity-relationship diagrams and UML class diagrams. You may provide a data model for the business operations or the data that the system modifies. Not the same thing as a database design data model. 
+      - entity-relationship diagram.
+        
    9.2. Data dictionary
-      Composition of data strucutres, meaning, data type, length, format, and allowed values. 
-   9.3. Reports
-      If your system will generate reports, then describe the attributes of those reports. You can detail the layout of the report.
-   9.4. Data acquisition, integrity, retention, and diposal
-      If possible, describe how data is acquired, retained, and later on disposed. Describe the requirements for protecting the integrity of the data.
+      Composition of data strucutres, meaning, data type, length, format, and allowed values.
+   
+   9.3. Data acquisition, integrity, retention, and diposal
+     Describe how data is acquired, retained, and later on disposed. Describe the requirements for protecting the integrity of the data here.
 
    
-10. **External Interface Requirements**
+11. **External Interface Requirements**
     
    10.1. User Interfaces
 
-Describe the logical characteristics of each interface between the software product and the users. This may include sample screen images, any GUI standards or product family style guides that are to be followed, screen layout constraints, standard buttons and functions (e.g., help) that will appear on every screen, keyboard shortcuts, error message display standards, and so on. Define the software components for which a user interface is needed.
+Describe the logical characteristics of each interface between the software product and the users. This should include sample screen images, any GUI standards or product family style guides that are to be followed, screen layout constraints, standard buttons and functions (e.g., help) that will appear on every screen, keyboard shortcuts, error message display standards, and so on. 
       
    10.2. Hardware Interfaces
    
@@ -160,17 +160,19 @@ Describe the requirements associated with any communications functions required 
 
 11. **Software Quality Attributes**
 
-    Specify requirements that include performance, security, reusability, maintainability, usability, availability, interoperability, etc.
+    Specify requirements that include (but are not limited to) performance, security, reusability, maintainability, usability, availability, interoperability, etc.
 
 12. **Analysis Models (Data Flow Diagrams, Sequence Diagrams, etc.)**
 
 Context level DFD (minimum 1)
 DFD level 1 (minimum 1)
-DFD level 2 (where applicable)
+DFD level 2 (if applicable, but not required)
 
-Dialog Maps for 2 main features (select features where you did not also write a detailed use case)
+Dialog Maps for 2 main features (select features where you did not also write a detailed use case if possible)
 
-Sequence Diagram (minimum 1)
+Swimlane Diagram (minimum 1)
+
+Bonus diagram of your choosing (cannot be one of the diagrams that are required!) 
 
 
 
