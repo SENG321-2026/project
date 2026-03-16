@@ -91,11 +91,12 @@ You may use this requirements document template to get your requirements documen
 
    Itemize the detailed functional requirements associated with this feature. These are the software capabilities that must be present in order for the user to carry out the services provided by the feature, or to execute related use case(s). Include how the product should respond to anticipated error conditions or invalid inputs. Requirements should be concise, complete, unambiguous, verifiable, and necessary. Use “TBD” as a placeholder to indicate when necessary information is not yet available.
       Each requirement should be uniquely identified with a sequence number or a meaningful tag of some kind. These could be requirements that the clients provided directly or were defined by the designer group as a result of rendering the feature.
-      Each requirement should also include information a(1) bout Backward Traceability (the rationale for the requirements and the source – RFP and which section in it, client meeting and which notes from that meeting, etc.. and (2) Forward Traceability (how the requirement can be verified by the users (acceptance tests)). 
+      Each requirement should also include information a(1) bout Backward Traceability (the rationale for the requirements and the source – RFP and which section in it, client meeting and which notes from that meeting, etc.. and (2) Forward Traceability (how the requirement can be verified by the users (acceptance tests)).
+   All requirements (functional and non functional) must now include a priority assigned based on the MoSCoW method. 
 
  
 
-8. **Use cases associated with the feature or functional requirement**
+9. **Use cases associated with the feature or functional requirement**
 
     This is the use case specification. For each Use Case, list the dialog elements in the use case that elaborates or is related to this feature or one of its functional requirements, i.e. sequences of user actions and system responses that stimulate the behavior defined for this feature/functional requirement. 
          
@@ -175,11 +176,32 @@ Swimlane Diagram (minimum 1)
 Bonus diagram of your choosing (cannot be one of the diagrams that are required!) 
 
 
+13. **Release Plan**
+Use the MoSCoW prioritization you previously completed to guide your decisions. Requirements marked as Must should normally appear in the first release because they represent the minimum functionality required for the system to be usable. Should requirements are important but not critical for the initial release and may be scheduled for later releases if necessary. Could requirements are desirable but optional features that can be included if time and resources permit. Won’t requirements should not appear in this release plan.
+
+Choose a format that clearly communicates your plan. For example, you might use a table, timeline, roadmap, or short written explanation. Regardless of the format, your release plan should:
+
+Identify each planned release (for example, Release 1, Release 2, etc.).
+
+List the requirements included in each release.
+
+Show how your MoSCoW priorities influenced the ordering of releases.
+
+Briefly justify any cases where a Should or Could requirement appears earlier or later than expected.
+
+You may make reasonable assumptions about development constraints such as team capacity, dependencies between requirements, or technical complexity if these affect your release planning. Briefly state any important assumptions you make.
+
+The goal of this section is to demonstrate how prioritized requirements translate into a realistic delivery plan for the system.
+    
 
 
-13. **Appendix**   
 
-14. **Reflection on the use of AI**
+
+15. **Appendix**   
+
+16. **Reflection on the use of AI**
+
+    not required for RD4. 
 
 This section must be submitted as a separate document from the rest of the RD deliverable.
 
